@@ -1,4 +1,4 @@
-# Fintech-Modernization-Suite
+# Transaction-Modernization-Framework
 
 A reference implementation of a modern payments hub designed for banks and fintech organizations.  
 This project models how large financial institutions can process real time and high-value payments using ISO 20022 standards, microservices-style components, and event-driven workflows.
@@ -90,7 +90,7 @@ Planned improvements and future extensions include:
 
 ```text
 
-fintech-modernization-suite
+transaction-modernization-framework
 │
 ├── README.md
 ├── src
