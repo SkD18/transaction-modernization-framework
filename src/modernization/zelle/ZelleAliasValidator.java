@@ -6,8 +6,8 @@ package com.payments.modernization.zelle;
  * demos, or tests when modelling a modern payment hub.
  */
 public class ZelleAliasValidator {
-    private String name;
-    private int version;
+    private final String name;
+    private final int version;
     private boolean enabled = true;
 
     public ZelleAliasValidator() {
