@@ -38,13 +38,7 @@ public class Camtn054Parser {
 
 
     public String extractTag(String xml, String tagName) {
-    if (xml == null || tagName == null) return null;
-    String startTag = "<" + tagName + ">";
-    String endTag = "</" + tagName + ">";
-    int start = xml.indexOf(startTag);
-    int end = xml.indexOf(endTag);
-    if (start < 0 || end < 0 || end <= start) return null;
-    return xml.substring(start + startTag.length(), end);
+        return getString(xml, tagName);
     }
 
     public String buildSimpleTag(String tagName, String value) {
