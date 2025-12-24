@@ -6,8 +6,8 @@ package com.payments.modernization.iso20022;
  * demos, or tests when modelling a modern payment hub.
  */
 public class Pacs008Parser {
-    private String name;
-    private int version;
+    private final String name;
+    private final int version;
     private boolean enabled = true;
 
     public Pacs008Parser() {
