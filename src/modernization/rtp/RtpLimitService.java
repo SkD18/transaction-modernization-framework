@@ -1,7 +1,7 @@
 package com.payments.modernization.rtp;
 
 /**
- * RtpLimitService is part of the payments-modernization-hub reference implementation.
+ * RtpLimitService is part of the Transaction-Modernization-Framework reference implementation.
  * It contains simple but realistic helper logic that can be used in examples,
  * demos, or tests when modelling a modern payment hub.
  */

@@ -1,7 +1,7 @@
 package com.payments.modernization.core;
 
 /**
- * PaymentEngine is part of the payments-modernization-hub reference implementation.
+ * PaymentEngine is part of the Transaction-Modernization-Framework reference implementation.
  * It contains simple but realistic helper logic that can be used in examples,
  * demos, or tests when modelling a modern payment hub.
  */

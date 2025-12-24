@@ -1,7 +1,7 @@
 package com.payments.modernization.auth;
 
 /**
- * JwtTokenService is part of the payments-modernization-hub reference implementation.
+ * JwtTokenService is part of the Transaction-Modernization-Framework reference implementation.
  * It contains simple but realistic helper logic that can be used in examples,
  * demos, or tests when modelling a modern payment hub.
  */
